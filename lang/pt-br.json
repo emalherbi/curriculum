@@ -28,10 +28,13 @@
           "description": "Coordenador da equipe de desenvolvimento WEB na XPert."
         },
         {
-          "description": "Trabalha em projetos desenvolvendo sites e sistemas web com HTML, CSS, Javascript (JQuery, AngularJS) e PHP."
+          "description": "Scrum Master (SM) da equipe de desenvolvimento WEB na XPert."
         },
         {
-          "description": "Desenvolvedor para aplicações móveis com Ionic, AngularJS e PHP."
+          "description": "Trabalha em projetos desenvolvendo sistemas web com HTML, CSS, Angular, Typescript, Javascript, NestJS e TypeORM."
+        },
+        {
+          "description": "Desenvolvedor para aplicações móveis com Ionic, Angular e PHP."
         }
       ]
     }
@@ -44,7 +47,7 @@
     {
       "experiences": [
         {
-          "title": "Coordenador Equipe Web.",
+          "title": "Coordenador Equipe Web & Scrum Master (SM).",
           "first": true
         },
         {
@@ -67,6 +70,15 @@
             },
             {
               "description": "Codificação e manutenção dos projetos web."
+            },
+            {
+              "description": "Desenvolvimento WEB: HTML. CSS. Angular. Typescript. NestJS. TypeORM."
+            },
+            {
+              "description": "Banco De Dados: SQL Server 2000, 2005, 2008, 2012. MySQL. MongoDB."
+            },
+            {
+              "description": "Criação/Utilização de containers dockers e configuração em servidores aws (EC2)"
             }
           ]
         },
@@ -174,13 +186,16 @@
     {
       "items": [
         {
-          "description": "Desenvolvimento WEB: HTML. XHTML. CSS. CSS3. SASS. LESS. JavaScript. JQuery. AngularJS. Bootstrap. PureCSS. Flash Builder 4. PHP. ZEND. Java."
+          "description": "Desenvolvimento WEB: Docker. HTML. XHTML. CSS. CSS3. SASS. LESS. JavaScript. JQuery. AngularJS. Angular. Bootstrap. PureCSS. Flash Builder 4. PHP. ZEND. Java. NodeJS. NestJS. TypeORM."
         },
         {
           "description": "Desenvolvimento Desktop: Linguagem Object Pascal (Delphi7, Delphi2007, Delphi2010). Visual Basic. Java."
         },
         {
           "description": "Desenvolvimento Mobile: Ionic. PhoneGap. Android (Java). JQueryMobile."
+        },
+        {
+          "description": "Servidores: Azure (Microsoft). AWS (Amazon)."
         },
         {
           "description": "Criação de Relatórios: FPDF. DOMPDF. FastReport. QuickReport."
@@ -192,7 +207,7 @@
           "description": "Programação Mainframe: COBOL (Bath, IMS e Stored Procedures), ferramenta Micro Focus MainFrame (MFE)."
         },
         {
-          "description": "SGBD: Sql Server 2000, 2005, 2008, 2012. DB2. MySql."
+          "description": "SGBD: Sql Server 2000, 2005, 2008, 2012. DB2. MySql. MongoDB."
         },
         {
           "description": "Criação de Casos de Testes e Teste de Software: MERCURY QUALITY CENTER. HexaVison (HSBC)."
